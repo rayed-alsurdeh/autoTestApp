@@ -52,6 +52,7 @@ namespace autoTestApp.teacher
         private void bindingNavigator1_ItemAdded(object sender, ToolStripItemEventArgs e)
         {
             MessageBox.Show("*");
+            //MessageBox.Show("");
         }
 
         private void addRecordToolStripButton_Click(object sender, EventArgs e)
